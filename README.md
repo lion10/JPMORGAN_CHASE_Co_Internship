@@ -1,5 +1,5 @@
 # JPMORGAN_CHASE_Co_Internship
-This repository contains the problems which I've solved it at JPMORGAN CHASE &amp; Co Virtual Internship as Software Engineering
+This repository contains the problems which I've solved it at JPMORGAN CHASE &amp; Co Virtual Internship as Software Engineer
 
 ## Teconlogies I have gained during the period of internship
 
