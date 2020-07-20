@@ -17,3 +17,10 @@ This repository contains the problems which I've solved it at JPMORGAN CHASE &am
   * React
   * Type script
   * Web Applications
+
+## Task3
+
+  Display data visually for traders. Use Perspective to create the chart for the trader’s dashboard
+  * Technical Communication
+  * Financial Analysis
+  * Web Applications
